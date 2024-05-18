@@ -44,8 +44,8 @@ function getTotalSupply() {
 
 // call your functions below this line
 mintNFT("Rei", "Blue", "Shirt", "Necklace");
-mintNFT("Francine", "Purple", "Dress", "ring");
-mintNFT("Christian", "Yellow", "Sweater", "Watch");
-mintNFT("Adrian", "Green", "Hoodie", "Gold Chain");
+mintNFT("Rem", "Purple", "Dress", "ring");
+mintNFT("Ren", "Black", "Sweater", "Watch");
+mintNFT("Reyu", "White", "Hoodie", "Gold Chain");
 listNFTs();
 getTotalSupply();
